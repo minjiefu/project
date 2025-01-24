@@ -8,8 +8,7 @@ Engineered an end-to-end interactive academic networking app, optimizing the pro
 
 [![](https://img.shields.io/badge/Plotly-white?logo=Plotly)](#) [![](https://img.shields.io/badge/MySQL-white?logo=MySQL)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=MongoDB)](#) [![](https://img.shields.io/badge/Neo4j-white?logo=Neo4j)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Bootstrap-white?logo=Bootstrap)](#) [![](https://img.shields.io/badge/Cytoscape-white?logo=Cytoscape)](#) 
 
-[View code on Github](https://github.com/minjiefu/Academic-ConnectX) <br>
-[Demo](https://mediaspace.illinois.edu/media/t/1_6ohijp9b)
+[View code on Github](https://github.com/minjiefu/Academic-ConnectX2) <br> [Demo](https://mediaspace.illinois.edu/media/t/1_6ohijp9b) 
 
 <img src="images/academic_connectX.png?raw=true" />
 ---
