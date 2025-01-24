@@ -8,19 +8,21 @@ Engineered an end-to-end interactive academic networking app, optimizing the pro
 
 [![](https://img.shields.io/badge/Plotly-white?logo=Plotly)](#) [![](https://img.shields.io/badge/MySQL-white?logo=MySQL)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=MongoDB)](#) [![](https://img.shields.io/badge/Neo4j-white?logo=Neo4j)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Bootstrap-white?logo=Bootstrap)](#) [![](https://img.shields.io/badge/Cytoscape-white?logo=Cytoscape)](#) 
 
-[View code on Github](https://github.com/minjiefu/Academic-ConnectX2) <br> [Demo](https://mediaspace.illinois.edu/media/t/1_6ohijp9b) 
+[View code on Github](https://github.com/minjiefu/Academic-ConnectX2) 
 
 <img src="images/academic_connectX.png?raw=true" />
 
 ---
 
-### Deep NLP for hate speech detection
+### MenuVista
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+Wrangled and analyzed decades of menu data with comprehensive workflow documentation. Developed a captivating narrative visualization showcased on an interactive website. Led users on an immersive journey through the history of menus, unveiling intriguing insights and trends within the food industry.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL)](#) [![](https://img.shields.io/badge/D3-white?logo=D3)](#) [![](https://img.shields.io/badge/OpenRefine-white?logo=OpenRefine)](#) [![](https://img.shields.io/badge/OR2YWTool-white?logo=OR2YWTool)](#) [![](https://img.shields.io/badge/yesWorkflow-white?logo=yesWorkflow)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View code on Github](https://github.com/minjiefu/MenuVista) 
+
+<img src="images/MenuVista.png?raw=true" />
 
 ---
 
