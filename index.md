@@ -2,6 +2,18 @@
 
 ---
 
+### Academic ConnectX
+
+Engineered an end-to-end interactive academic networking app, optimizing the process of discovering research topics and connecting with collaboration partners, to enhance networking efficiency and effectiveness in academia
+
+[![](https://img.shields.io/badge/Plotly-white?logo=Plotly)](#) [![](https://img.shields.io/badge/MySQL-white?logo=MySQL)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=MongoDB)](#) [![](https://img.shields.io/badge/Neo4j-white?logo=Neo4j)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Bootstrap-white?logo=Bootstrap)](#) [![](https://img.shields.io/badge/Cytoscape-white?logo=Cytoscape)](#) 
+
+[View code on Github](https://github.com/minjiefu/Academic-ConnectX) <br>
+[Demo](https://mediaspace.illinois.edu/media/t/1_6ohijp9b)
+
+<img src="images/academic_connectX.png?raw=true" />
+---
+
 ### Deep NLP for hate speech detection
 
 Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
