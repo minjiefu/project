@@ -10,7 +10,8 @@ Engineered an end-to-end interactive academic networking app, optimizing the pro
 
 [View code on Github](https://github.com/minjiefu/Academic-ConnectX2) <br> [Demo](https://mediaspace.illinois.edu/media/t/1_6ohijp9b) 
 
-<img src="images/academic_connectX.png?raw=true" />
+<img src="images/academic_connectX2.png?raw=true" />
+
 ---
 
 ### Deep NLP for hate speech detection
