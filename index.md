@@ -38,6 +38,15 @@ Created a personalized movie recommendation app using Dash. Implemented the Item
 <img src="images/FilmPick.png?raw=true" />
 
 ---
+### Pandemic Priorities
+
+Designed an interactive Tableau dashboard to visually represent the chronological spread of COVID-19 globally and assess the impact on countries with high infection rates and low vaccination coverage. The primary objective of this project is to pinpoint specific areas in need of targeted intervention and provide actionable strategies to bolster vaccination efforts and effectively combat the pandemic in these regions.
+
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) 
+
+<img src="images/PandemicPriorities.png?raw=true" />
+
+---
 
 ### Examining panic-buying during the first wave of Covid-19, using mobility data
 The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
