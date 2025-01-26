@@ -71,7 +71,7 @@ Enhanced accuracy in forecasting housing prices in Ames by extensively evaluatin
 ---
 ### GPT Clone
 
-Reproduced the GPT-2 Model from scratch using Python and PyTorch, following the paper "Attention is All You Need". Implemented a gradient accumulation strategy to address computing resource limitations. Utilized Distributed Data Parallel (DDP) to accelerate training. Achieved comparable performance to the original GPT-2 124M modele after 2 hours’ training.
+Reproduced the GPT-2 Model from scratch using Python and PyTorch, following the paper "Attention is All You Need". Implemented a gradient accumulation strategy to address computing resource limitations. Utilized Distributed Data Parallel (DDP) to accelerate training. Outperformed the original GPT-2 124M modele after 2 hours’ training.
 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Pytorch-white?logo=Pytorch)](#) 
