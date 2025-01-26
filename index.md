@@ -40,7 +40,7 @@ Created a personalized movie recommendation app using Dash. Implemented the Item
 ---
 ### Pandemic Priorities
 
-Designed an interactive Tableau dashboard to visually represent the chronological spread of COVID-19 globally and assess the impact on countries with high infection rates and low vaccination coverage. The primary objective of this project is to pinpoint specific areas in need of targeted intervention and provide actionable strategies to bolster vaccination efforts and effectively combat the pandemic in these regions.
+Designed an interactive Tableau dashboard to visually represent the spread of COVID-19 globally and assess the impact on countries with high infection rates and low vaccination coverage. The primary objective of this project is to pinpoint specific areas in need of targeted intervention and provide actionable strategies to bolster vaccination efforts and effectively combat the pandemic in these regions.
 
 [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) 
 
