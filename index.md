@@ -81,6 +81,16 @@ Enhanced accuracy in forecasting housing prices in Ames by extensively evaluatin
 [View code on Github](https://github.com/minjiefu/Ames-Housing-Prices-Prediction) 
 
 ---
+### Baby Name Factory
+
+Implemented a character-level name generation model from scratch based on RNN and LSTM with gradient clipping techniques. After 22,000 training steps, the model evolved from generating random sequences to producing meaningful baby names.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
+
+
+[View code on Github](https://github.com/minjiefu/Baby-Name-Factory) 
+
+---
 ### GPT Clone
 
 Reproduced the GPT-2 Model from scratch using Python and PyTorch, following the paper "Attention is All You Need". Implemented a gradient accumulation strategy to address computing resource limitations. Utilized Distributed Data Parallel (DDP) to accelerate training. Outperformed the original GPT-2 124M modele after 2 hours’ training.
