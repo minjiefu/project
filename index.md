@@ -1,17 +1,6 @@
 ## Selected Projects in DS, ML and NLP
 
 ---
-### Steel Defects Detection
-
-Enhanced accuracy and efficiency in detecting and categorizing surface defects on steel sheets during the manufacturing process by utilizing deep learning techniques such as DenseNet, VGG-16, Unet. Monitored multiple models to ensure validity and achieved an accuracy rate of 98\%.
-
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit--learn)](#)
-
-
-[View code on Github](https://github.com/minjiefu/Steel-Defects-Detection) 
-
----
 
 ### Academic ConnectX
 
@@ -24,6 +13,18 @@ Engineered an end-to-end interactive academic networking app, optimizing the pro
 <img src="images/academic_connectX.png?raw=true" />
 
 ---
+### Steel Defects Detection
+
+Enhanced accuracy and efficiency in detecting and categorizing surface defects on steel sheets during the manufacturing process by utilizing deep learning techniques such as DenseNet, VGG-16, Unet. Monitored multiple models to ensure validity and achieved an accuracy rate of 98\%.
+
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit--learn)](#)
+
+
+[View code on Github](https://github.com/minjiefu/Steel-Defects-Detection) 
+
+---
+
 
 ### MenuVista
 
