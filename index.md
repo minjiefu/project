@@ -102,13 +102,17 @@ Reproduced the GPT-2 Model from scratch using Python and PyTorch, following the 
 [View code on Github](https://github.com/minjiefu/GPT-Clone) 
 
 ---
-### New
 
-Implemented a character-level name generation model from scratch based on RNN and LSTM with gradient clipping techniques. After 22,000 training steps, the model evolved from generating random sequences to producing meaningful baby names.
+### Cloud Event Board
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
+Designed and implemented a full-stack event query platform using React and Flask with RESTful API integration. Built two automated CI/CD pipelines to deploy the application on AWS cloud infrastructure, leveraging CodePipeline, CodeBuild, Elastic Beanstalk, Amazon S3, and Amazon RDS for scalable and reliable delivery.
+
+[![](https://img.shields.io/badge/aws-white?logo=aws)](#) [![](https://img.shields.io/badge/flask-white?logo=flask)](#) [![](https://img.shields.io/badge/React-white?logo=React)](#) [![](https://img.shields.io/badge/python-white?logo=python)](#) 
 
 
-[View code on Github](https://github.com/minjiefu/Baby-Name-Factory) 
+[View code on Github Part1 Frontend](https://github.com/minjiefu/aws-Full-Stack-Event-Board-frontendrepo) <br>
+[View code on Github Part2 Backend](https://github.com/minjiefu/aws-Full-Stack-Event-Board-backendrepo) 
+
+<img src="images/CloudEventBoard.png?raw=true" />
 
 ---
