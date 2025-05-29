@@ -107,7 +107,7 @@ Reproduced the GPT-2 Model from scratch using Python and PyTorch, following the 
 
 Designed and implemented a full-stack event query platform using React and Flask with RESTful API integration. Built two automated CI/CD pipelines to deploy the application on AWS cloud infrastructure, leveraging CodePipeline, CodeBuild, Elastic Beanstalk, Amazon S3, and Amazon RDS for scalable and reliable delivery.
 
-[![](https://img.shields.io/badge/aws-white?logo=aws)](#) [![](https://img.shields.io/badge/flask-white?logo=flask)](#) [![](https://img.shields.io/badge/React-white?logo=React)](#) [![](https://img.shields.io/badge/python-white?logo=python)](#) 
+[![](https://img.shields.io/badge/AWS-white?logo=AWS)](#) [![](https://img.shields.io/badge/Flask-white?logo=Flask)](#) [![](https://img.shields.io/badge/React-white?logo=React)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
 
 [View code on Github Part1 Frontend](https://github.com/minjiefu/aws-Full-Stack-Event-Board-frontendrepo) <br>
