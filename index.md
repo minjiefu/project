@@ -102,3 +102,13 @@ Reproduced the GPT-2 Model from scratch using Python and PyTorch, following the 
 [View code on Github](https://github.com/minjiefu/GPT-Clone) 
 
 ---
+### New
+
+Implemented a character-level name generation model from scratch based on RNN and LSTM with gradient clipping techniques. After 22,000 training steps, the model evolved from generating random sequences to producing meaningful baby names.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
+
+
+[View code on Github](https://github.com/minjiefu/Baby-Name-Factory) 
+
+---
