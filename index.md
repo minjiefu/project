@@ -116,3 +116,14 @@ Designed and implemented a full-stack event query platform using React and Flask
 <img src="images/CloudEventBoard.png?raw=true" />
 
 ---
+
+### SkyInsight
+
+Designed and implemented a cloud-based data analytics pipeline for airline datasets using AWS Glue (ETL), Athena (SQL), and Tableau (visualization) to extract actionable insights from multi-source datasets.
+
+[![](https://img.shields.io/badge/AWS-white?logo=AWS)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) 
+
+<img src="images/SkyInsight.png?raw=true" />
+
+---
+
