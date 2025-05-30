@@ -136,3 +136,13 @@ Developed a real-time stock price analysis pipeline using Apache Flink. Ingested
 <img src="images/LiveStock.png?raw=true" />
 
 ---
+
+### AWS MLOps Pipeline for Drift Detection and Model Evaluation
+
+Built a fully automated MLOps pipeline for fraud detection using AWS services (S3, Lambda, SageMaker, Step Functions). Implemented continuous model drift detection and evaluation workflows. The pipeline autonomously promotes the superior model to production, ensuring sustained model performance with minimal manual intervention.
+
+[![](https://img.shields.io/badge/AWS-white?logo=AWS)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+
+<img src="images/Drift.png?raw=true" />
+
+---
