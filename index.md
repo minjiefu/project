@@ -143,6 +143,6 @@ Built a fully automated MLOps pipeline for fraud detection using AWS services (S
 
 [![](https://img.shields.io/badge/AWS-white?logo=AWS)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
-<img src="images/Drift.png?raw=true" />
+<img src="images/Drift2.png?raw=true" />
 
 ---
