@@ -127,3 +127,12 @@ Designed and implemented a cloud-based data analytics pipeline for airline datas
 
 ---
 
+### Live Stock Price Analysis & Anomaly Detection
+
+Developed a real-time stock price analysis pipeline using Apache Flink. Ingested live data from Kinesis Data Streams, calculated technical indicators, and implemented anomaly detection. Deployed the streaming application to AWS, continuously processing data and storing results in S3 for further analysis.
+
+[![](https://img.shields.io/badge/AWS-white?logo=AWS)](#) [![](https://img.shields.io/badge/PyFlink-white?logo=PyFlink)](#) 
+
+<img src="images/LiveStock.png?raw=true" />
+
+---
