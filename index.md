@@ -46,7 +46,7 @@ Created a personalized movie recommendation app using Dash. Implemented the Item
 [View code on Github Part1 Movie Recommender](https://github.com/minjiefu/FilmPick-Part1)  <br>
 [View code on Github Part2 Sentiment Analysis](https://github.com/minjiefu/FilmPick-Part2)
 
-<img src="images/FilmPick4.png?raw=true" />
+<img src="images/FilmPick5.png?raw=true" />
 
 ---
 ### Pandemic Priorities
