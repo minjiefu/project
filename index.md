@@ -43,8 +43,8 @@ Created a personalized movie recommendation app using Dash. Implemented the Item
 
 [![](https://img.shields.io/badge/Plotly-white?logo=Plotly)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](https://img.shields.io/badge/HTML-white?logo=Html)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit--learn)](#) 
 
-[View code on Github Part1 Sentiment Analysis](https://github.com/minjiefu/FilmPick-Part1) <br>
-[View code on Github Part2 Movie Recommender](https://github.com/minjiefu/FilmPick-Part2) 
+[View code on Github Part1 Movie Recommender](https://github.com/minjiefu/FilmPick-Part1)  <br>
+[View code on Github Part2 Sentiment Analysis](https://github.com/minjiefu/FilmPick-Part2)
 
 <img src="images/FilmPick.png?raw=true" />
 
