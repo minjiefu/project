@@ -1,4 +1,4 @@
-## Selected Projects in DS, ML and NLP
+## Selected Projects in DS, ML, AWS and NLP
 
 ---
 
@@ -99,6 +99,19 @@ Reproduced the GPT-2 Model from scratch using Python and PyTorch, following the 
 
 
 [View code on Github](https://github.com/minjiefu/GPT-Clone) 
+
+---
+
+### LexiRoute Bot
+
+Engineered an end-to-end chatbot using AWS Lex V2 to process natural language queries for city-to-city distance calculations. Implemented core backend logic in Python (AWS Lambda) using BFS algorithms to compute shortest paths and managed persistent storage with DynamoDB. Deployed a responsive web interface on Amazon S3 secured by AWS Cognito, enabling scalable, serverless access for external users.
+
+[![](https://img.shields.io/badge/AWS-white?logo=AWS)](#) [![](https://img.shields.io/badge/HTML-white?logo=Html](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+
+
+[View code on Github](https://github.com/minjiefu/LexiRoute) 
+
+<img src="images/lexiroute.png?raw=true" />
 
 ---
 
