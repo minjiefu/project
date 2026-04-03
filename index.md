@@ -158,11 +158,19 @@ Designed an interactive Tableau dashboard to visually represent the spread of CO
 
 In this project, I developed a custom WordPiece tokenizer and N-gram language models from scratch to process and generate natural language text based on the Wikipedia corpus. The implementation featured advanced statistical techniques, including Absolute Discounting and Laplace smoothing, to optimize probability estimation and reduce model perplexity. To ensure high-performance execution, I leveraged efficient data structures like inverted indices to significantly accelerate subword merging and large-scale vocabulary training.
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) 
+
+[View code on Github](https://github.com/minjiefu/Statistical-NLP-WordPiece-Tokenizer-N-gram-Probability-Models.git) 
+
 ---
 
 ### Deep Semantic Analysis: Leveraging Neural Networks for Text Classification
 
 Engineered a deep learning system to automate movie review sentiment analysis, mapping raw text to high-dimensional semantic spaces. Developed a dual-stage pipeline featuring CBOW-based word embeddings and 1D-Convolutional layers to extract hierarchical textual features. Optimized model performance using global max-pooling and dropout, resulting in a robust classifier capable of 82% accuracy on unseen IMDb data.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)  [![](https://img.shields.io/badge/Pytorch-white?logo=Pytorch)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) 
+
+[View code on Github](https://github.com/minjiefu/Deep-Semantic-Analysis-Leveraging-Neural-Networks-for-Text-Classification.git) 
 
 ---
 
@@ -170,11 +178,21 @@ Engineered a deep learning system to automate movie review sentiment analysis, m
 
 Developed a high-performance Spanish-to-English translation system by implementing and comparing two major deep learning paradigms: Recurrent Neural Networks (RNN) and Transformers. Engineered a custom attention mechanism and a Transformer encoder-decoder framework from scratch to capture complex cross-lingual dependencies and long-range linguistic patterns. Implemented a robust inference pipeline featuring Beam Search decoding with length penalty and temperature sampling, achieving significant BLEU score improvements and demonstrating proficiency in sequence-to-sequence modeling via PyTorch.
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)  [![](https://img.shields.io/badge/Pytorch-white?logo=Pytorch)](#) [![](https://img.shields.io/badge/RNN-white?logo=RNN)](#)  [![](https://img.shields.io/badge/Transformer-white?logo=Transformer)](#)
+
+[View code on Github](https://github.com/minjiefu/Neural-Machine-Translation-RNN-with-Attention-Transformer-Architectures.git) 
+
+
 ---
 
 ### Dependency Parsing: Transition-based Neural Syntax Analysis
 
 Constructed a transition-based dependency parser to analyze the grammatical structure and syntactic relationships within natural language sentences. Engineered a sophisticated feature extraction system to capture word, POS tag, and arc-label dependencies from parser configurations (Stack, Buffer, and Arcs). Implemented a multi-layer feed-forward neural network in PyTorch to predict parser transitions (Shift, Left-Arc, Right-Arc), achieving over 81% Labeled Attachment Score (LAS) on the Universal Dependencies dataset by enforcing legal move constraints during inference.
+
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Pytorch-white?logo=Pytorch)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) 
+
+[View code on Github](https://github.com/minjiefu/Dependency-Parsing-Transition-based-Neural-Syntax-Analysis.git) 
 
 ---
 
