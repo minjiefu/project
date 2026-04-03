@@ -12,12 +12,6 @@ Constructed an event-driven data pipeline using AWS Lambda and Kinesis to ingest
 
 ---
 
-### AI-Driven Credit Default Prediction & Strategic Intervention Optimization
-
-Engineered high-signal financial features and developed a predictive pipeline by using Logistic Regression as a baseline and XGBoost/Random Forests to capture complex non-linear risks, resulting in significantly higher prediction accuracy across 30,000 credit accounts. Quantified business value by modeling the trade-off between counseling costs (NT$7,500) and intervention success (70%), identifying the optimal probability threshold to maximize net financial savings. Delivered a ranked risk priority list for targeted counseling and established a Control Group framework to validate program ROI and ensure long-term model reliability.
-
----
-
 ### SkyInsight - Cloud Data Engineering ETL Pipeline
 
 Engineered a scalable ETL pipeline using AWS Glue and PySpark to process 470k+ airline records, implementing custom time-zone transformations and data deduplication. Architected optimized SQL queries in AWS Athena to perform complex multi-hop flight analysis and time-bucketed delay investigations across the entire dataset. Developed interactive Tableau visualizations and geospatial maps to uncover flight frequency patterns and correlation insights between departure and arrival delays.
@@ -33,6 +27,11 @@ Engineered a scalable ETL pipeline using AWS Glue and PySpark to process 470k+ a
 
 Developed a production-ready ELT pipeline using Python and Apache Airflow to automate the extraction of video metrics from the YouTube Data API into a PostgreSQL data warehouse. Integrated Soda for automated data quality audits and built a multi-layer testing suite with Pytest (Unit, Integration, and E2E), ensuring 100% data integrity and pipeline reliability. Orchestrated the environment with Docker Compose and implemented a GitHub Actions CI/CD workflow to automate image builds and deployment to Docker Hub, achieving seamless environment consistency.
 
+[![](https://img.shields.io/badge/AWS-white?logo=AWS)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) 
+[View code on Github](https://github.com/minjiefu/Youtube_ETL.git) 
+
+<img src="images/youtubeETL.png?raw=true" />
+
 ---
 
 
@@ -46,6 +45,17 @@ Developed a dual-stage computer vision framework using TensorFlow to automate su
 [View code on Github](https://github.com/minjiefu/Steel-Defects-Detection) 
 
 ---
+### AI-Driven Credit Default Prediction & Strategic Intervention Optimization
+
+Engineered high-signal financial features and developed a predictive pipeline by using Logistic Regression as a baseline and XGBoost/Random Forests to capture complex non-linear risks, resulting in significantly higher prediction accuracy across 30,000 credit accounts. Quantified business value by modeling the trade-off between counseling costs (NT$7,500) and intervention success (70%), identifying the optimal probability threshold to maximize net financial savings. Delivered a ranked risk priority list for targeted counseling and established a Control Group framework to validate program ROI and ensure long-term model reliability.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+
+
+[View code on Github](https://github.com/minjiefu/AI-Driven-Credit-Default-Prediction-Strategic-Intervention-Optimization.git) 
+
+---
+
 
 ### Academic ConnectX - Polyglot Persistence & Graph-Based Pathfinding
 
@@ -58,17 +68,7 @@ Developed an end-to-end academic networking app to identify optimal collaboratio
 
 ---
 
-### Quantitative Portfolio Optimization System based on Modern Portfolio Theory (MPT)
 
-Leveraged Python and financial APIs to ingest multi-asset historical data, calculating daily returns and covariance matrices to quantify risk-reward correlations across diversified assets. Executed Monte Carlo simulations to visualize the Efficient Frontier and utilized the SciPy optimization engine (SLSQP) to mathematically solve for the Maximum Sharpe Ratio and Minimum Volatility weight allocations. Developed visual analytics to compare simulated portfolios against optimized theoretical limits, providing data-backed evidence for capital allocation and risk management strategies.
-
----
-
-### Neural Network Fraud Detection
-
-Developed an ANN (Artificial Neural Network) using RMSProp to identify fraudulent patterns in high-dimensional PCA data. Implemented Class-Weight Cost-Sensitive Learning to overcome extreme data imbalance (0.17% fraud rate) without distorting original distributions. Optimized for Recall and F1-Score to maximize fraud detection while minimizing false positives for legitimate users.
-
----
 
 ### LexiRoute Bot - Serverless Graph Routing Service Powered by AWS
 
@@ -195,6 +195,19 @@ Constructed a transition-based dependency parser to analyze the grammatical stru
 [View code on Github](https://github.com/minjiefu/Dependency-Parsing-Transition-based-Neural-Syntax-Analysis.git) 
 
 ---
+
+### Quantitative Portfolio Optimization System based on Modern Portfolio Theory (MPT)
+
+Leveraged Python and financial APIs to ingest multi-asset historical data, calculating daily returns and covariance matrices to quantify risk-reward correlations across diversified assets. Executed Monte Carlo simulations to visualize the Efficient Frontier and utilized the SciPy optimization engine (SLSQP) to mathematically solve for the Maximum Sharpe Ratio and Minimum Volatility weight allocations. Developed visual analytics to compare simulated portfolios against optimized theoretical limits, providing data-backed evidence for capital allocation and risk management strategies.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+
+[View code on Github](https://github.com/minjiefu/Quantitative-Portfolio-Management.git) 
+
+<img src="images/potfolio.png?raw=true" />
+
+---
+
 
 ### GPT Clone - Transformer Architecture & Distributed Training
 
