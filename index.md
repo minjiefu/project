@@ -206,37 +206,5 @@ Leveraged Python and financial APIs to ingest multi-asset historical data, calcu
 
 <img src="images/potfolio.png?raw=true" />
 
----
 
 
-### GPT Clone - Transformer Architecture & Distributed Training
-
-Developed a GPT-2 model from scratch using PyTorch, implementing the Transformer architecture based on the “Attention is All You Need” paper. Engineered a high-performance training pipeline utilizing Distributed Data Parallel (DDP) and gradient accumulation to resolve GPU memory constraints and accelerate convergence. Exceeded the original GPT-2 124M model’s loss performance within 2 hours of training through synchronized distributed processing and optimized hyperparameter tuning.
-
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Pytorch-white?logo=Pytorch)](#) 
-
-
-[View code on Github](https://github.com/minjiefu/GPT-Clone) 
-
----
-
-### Baby Name Factory - Character-Level NLP & Sequence Modeling
-
-Developed a character-level text generation model from scratch using NumPy to implement RNN and LSTM architectures. Resolved exploding gradient issues by applying gradient clipping and monitored model evolution through regular sampling every 2,000 steps. Evolved output from random sequences to phonetically structured names after 22,000 iterations.
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
-
-
-[View code on Github](https://github.com/minjiefu/Baby-Name-Factory) 
-
----
-
-### Ames Housing Prices Prediction - Machine Learning Pipelines & Predictive Valuation
-
-Developed high-performance models using XGBoost and Elastic Net, achieving a 0.125 RMSE (16% improvement over target). Executed advanced preprocessing including Winsorization to handle extreme outliers and engineered property-specific features to minimize prediction variance and ensure precise real estate valuation.‭
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit--learn)](#) 
-
-
-[View code on Github](https://github.com/minjiefu/Ames-Housing-Prices-Prediction) 
